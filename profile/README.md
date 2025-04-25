@@ -6,15 +6,15 @@ der Westfälischen Hochschule Gelsenkirchen<br><br>
 
 <br><br><br><br>
 
-Website:
+Website:<br>
 https://fachschaftinformatik.de/
 
-Kontakt:
-oeffentlichkeit@fachschaftinformatik.de
+Kontakt:<br>
+oeffentlichkeit@fachschaftinformatik.de (E-Mail)
 
 
 
 # Impressum
-FSV Informatik
-Neidenburger Str. 42,
-DE-45897 Gelsenkirchen
+FSV Informatik<br>
+Neidenburger Str. 42,<br>
+DE-45897 Gelsenkirchen<br>
