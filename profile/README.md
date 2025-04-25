@@ -2,7 +2,7 @@
 
 der Westfälischen Hochschule Gelsenkirchen<br><br>
 
-![fsvlogo](img/fsv_LOGO_720p.png)
+![fsvlogo](../img/fsv_LOGO_720p.png)
 
 <br><br><br><br>
 
