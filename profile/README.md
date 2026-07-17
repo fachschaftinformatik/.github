@@ -4,7 +4,7 @@ der Westfälischen Hochschule Gelsenkirchen.
 
 ![fsvlogo](../img/fsv_LOGO_720p.png)
 
-Website: [fachschaftinformatik.de](https://fachschaftinformatik.de/)  
+Website: [ik.fsv-wh.de](https://ik.fsv-wh.de)  
 Kontakt: [oeffentlichkeit@fachschaftinformatik.de](mailto:oeffentlichkeit@fachschaftinformatik.de)
 
 # Impressum
